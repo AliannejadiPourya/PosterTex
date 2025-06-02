@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.16)  26 MAY 2025 23:15
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.16)  3 JUN 2025 01:36
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1418,23 +1418,20 @@ LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <35.83> not available
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <17.915> not available
 (Font)              size <17.28> substituted on input line 71.
 
-<Screenshot from 2025-04-20 21-11-48.png, id=16, 1251.67625pt x 860.21375pt>
-File: Screenshot from 2025-04-20 21-11-48.png Graphic file (type png)
-<use Screenshot from 2025-04-20 21-11-48.png>
-Package luatex.def Info: Screenshot from 2025-04-20 21-11-48.png  used on input
- line 180.
+<fig 1.png, id=16, 1251.67625pt x 860.21375pt>
+File: fig 1.png Graphic file (type png)
+<use fig 1.png>
+Package luatex.def Info: fig 1.png  used on input line 180.
 (luatex.def)             Requested size: 768.227pt x 527.97168pt.
-<Screenshot from 2025-04-20 21-17-05.png, id=17, 1443.3925pt x 593.21625pt>
-File: Screenshot from 2025-04-20 21-17-05.png Graphic file (type png)
-<use Screenshot from 2025-04-20 21-17-05.png>
-Package luatex.def Info: Screenshot from 2025-04-20 21-17-05.png  used on input
- line 180.
+<fig 2.png, id=17, 1443.3925pt x 593.21625pt>
+File: fig 2.png Graphic file (type png)
+<use fig 2.png>
+Package luatex.def Info: fig 2.png  used on input line 180.
 (luatex.def)             Requested size: 768.227pt x 315.73372pt.
-<Screenshot from 2025-04-20 21-12-27.png, id=18, 1287.81125pt x 1017.8025pt>
-File: Screenshot from 2025-04-20 21-12-27.png Graphic file (type png)
-<use Screenshot from 2025-04-20 21-12-27.png>
-Package luatex.def Info: Screenshot from 2025-04-20 21-12-27.png  used on input
- line 180.
+<fig 3.png, id=18, 1287.81125pt x 1017.8025pt>
+File: fig 3.png Graphic file (type png)
+<use fig 3.png>
+Package luatex.def Info: fig 3.png  used on input line 180.
 (luatex.def)             Requested size: 768.227pt x 607.17636pt.
 <logos/Logo-Left.png, id=20, 252.945pt x 230.8625pt>
 File: logos/Logo-Left.png Graphic file (type png)
@@ -1448,9 +1445,8 @@ Package luatex.def Info: logos/Logo-Right.png  used on input line 180.
 (luatex.def)             Requested size: 199.15665pt x 199.16928pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-<./logos/Logo-Left.png><./logos/Logo-Right.png><./Screenshot from 2025-04-20 21-
-11-48.png><./Screenshot from 2025-04-20 21-17-05.png><./Screenshot from 2025-04-
-20 21-12-27.png>]
+<./logos/Logo-Left.png><./logos/Logo-Right.png><./fig 1.png><./fig 2.png><./fig 
+3.png>]
 \tf@nav=\write6
 
 \openout6 = main.nav
@@ -1460,8 +1456,7 @@ Package luatex.def Info: logos/Logo-Right.png  used on input line 180.
 \tf@snm=\write8
 
 \openout8 = main.snm
-
-(./main.aux)
+ (./main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 10.95pt have occurred.

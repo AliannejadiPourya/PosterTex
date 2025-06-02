@@ -101,7 +101,7 @@
 	The key method used is \textbf{inverse propensity weighting} to address the selection bias. The paper estimates the propensity score (the probability of a query appearing in the clicked data) and uses its inverse to weight the loss function during learning-to-rank. Different models for estimating these inverse propensity weights are proposed: a \textbf{global bias model} based on position, a \textbf{segmented bias model} based on query segments (email labels), and a \textbf{generalized bias model} using \textbf{multi-class logistic regression with query-dependent features} to predict position bias. \textbf{Result randomization} is employed to collect unbiased data for bias estimation.
     \begin{figure}
       \centering
-      \includegraphics[width=0.9\linewidth]{Screenshot from 2025-04-20 21-11-48.png}
+      \includegraphics[width=0.9\linewidth]{fig 1.png}
       \caption{Selection bias in click
       	data.}
     \end{figure}
@@ -160,7 +160,7 @@
   \begin{block}{List of position bias prediction methods}
 	   \begin{figure}
 	\centering
-	\includegraphics[width=0.9\linewidth]{Screenshot from 2025-04-20 21-17-05.png}
+	\includegraphics[width=0.9\linewidth]{fig 2.png}
 	\end{figure}
   \end{block}
 
@@ -168,7 +168,7 @@
 	\begin{block}{Example}
 	    \begin{figure}
 		\centering
-		\includegraphics[width=0.9\linewidth]{Screenshot from 2025-04-20 21-12-27.png}
+		\includegraphics[width=0.9\linewidth]{fig 3.png}
 		\end{figure}
 	\end{block}
 	

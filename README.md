@@ -1,8 +1,9 @@
+
 # PosterTeX
 
 A clean, customizable LaTeX/Beamer template for academic poster presentations—PosterTeX makes it easy to turn your latest paper into a polished research poster. Inspired by the Gemini–UQ theme, PosterTeX adds new layout options, section styles, and a lightweight framework for organizing scientific posters.
 
-📖 **Table of Contents**
+## 📖 **Table of Contents**
 
 1. [Why PosterTeX?](#why-postertex)
 2. [Features](#features)
@@ -19,7 +20,7 @@ A clean, customizable LaTeX/Beamer template for academic poster presentations—
 
 ---
 
-🎯 **Why PosterTeX?**
+##  **Why PosterTeX**
 
 Researchers often struggle to translate dense academic papers into clear, visually appealing posters. PosterTeX:
 
@@ -29,7 +30,7 @@ Researchers often struggle to translate dense academic papers into clear, visual
 
 ---
 
-✨ **Features**
+##  **Features**
 
 - Seven built-in sections covering everything from your research gap to future work.
 - Two figure slots with captions ready to showcase key diagrams.
@@ -39,7 +40,7 @@ Researchers often struggle to translate dense academic papers into clear, visual
 
 ---
 
-🛠️ **Installation**
+## **Installation**
 
 Clone this repository:
 
@@ -52,7 +53,7 @@ Open `poster.tex` in your editor or Overleaf.
 
 ---
 
-⚡ **Quick Start**
+##  **Quick Start**
 
 1. Copy `poster.tex` (or `poster-example.tex`) to your working folder.
 2. Replace the title, authors, and institution:
@@ -73,7 +74,7 @@ lualatex poster.tex
 
 ---
 
-🗂️ **Template Structure**
+## **Folder Structure**
 
 ```
 Base Template/
@@ -97,7 +98,7 @@ Posters/
 -   `Posters/`: Contains subfolders for each paper, each with its own poster PDF.
 ---
 
-📑 **Section Guide**
+## **Section Guide**
 
 PosterTeX divides your poster into seven core panels—each panel maps to a familiar part of your research paper:
 
@@ -123,7 +124,7 @@ PosterTeX divides your poster into seven core panels—each panel maps to a fami
 > Display your central mathematical expression or model derivation. Helps technically minded viewers grasp the formal underpinnings at a glance.
 
 ---
-📂 **Existing Posters**
+## **Existing Posters**
 
 Browse and download existing posters directly:
 
@@ -137,7 +138,7 @@ Large Language Models](https://github.com/AliannejadiPourya/PosterTex/blob/main/
 
 ---
 
-🖼️ **Figures & Graphics**
+## **Figures & Graphics**
 
 PosterTeX reserves two figure slots—just drop your images into `graphics/` and reference them in `poster.tex`:
 
@@ -153,7 +154,7 @@ PosterTeX reserves two figure slots—just drop your images into `graphics/` and
 
 ---
 
-🎨 **Customization**
+## **Customization**
 
 PosterTeX is designed for easy branding:
 
@@ -163,7 +164,7 @@ PosterTeX is designed for easy branding:
 
 ---
 
-🤝 **Contributing**
+## **Contributing**
 
 1. Fork the repo.
 2. Create a feature branch:  
@@ -180,13 +181,13 @@ We welcome bug reports, feature requests, and pull requests! 🚀
 
 ---
 
-📜 **License**
+## **License**
 
 This project is MIT-licensed. Feel free to use and modify PosterTeX for your own research.
 
 ---
 
-📬 **Contact**
+## **Contact**
 
 Pourya Aliannejadi  
 ✉️ alian.pourya@gmail.com  

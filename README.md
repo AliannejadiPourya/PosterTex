@@ -2,6 +2,11 @@
 # PosterTeX
 
 A clean, customizable LaTeX/Beamer template for academic poster presentations—PosterTeX makes it easy to turn your latest paper into a polished research poster. Inspired by the Gemini–UQ theme, PosterTeX adds new layout options, section styles, and a lightweight framework for organizing scientific posters.
+<p align="center">
+  <a href="https://github.com/AliannejadiPourya/PosterTex/blob/main/Posters/LLMLingua-2%3A%20Faithful%20and%20Efficient%20Prompt%20Compression%20via%20Data%20Distillation/main.pdf">
+  <img src="https://github.com/AliannejadiPourya/PosterTex/blob/main/images/poster.png">
+  </a>
+</p>
 
 ## 📖 **Table of Contents**
 
